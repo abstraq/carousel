@@ -1,0 +1,6 @@
+[package]
+name = "carousel-model"
+description = "Twitch API models for the carousel ecosystem."
+version = "1.0.0"
+authors = ["abstraq<abstraq@outlook.com>"]
+edition = "2021"
